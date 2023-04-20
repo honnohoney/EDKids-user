@@ -1,0 +1,9 @@
+// app global css in SCSS form
+
+* {
+  //   font-family: th_default;
+  scroll-behavior: smooth;
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
